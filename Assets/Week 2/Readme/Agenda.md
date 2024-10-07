@@ -2,7 +2,15 @@
 
 ## 1. Kể Tên 3 Hàm Màu Xanh (Blue) Mà Unity Sẽ Tự Động Gọi
 
-## 2. Kể Tên 5 Loại Giải Thuật Sắp Xếp Khác Nhau
+Start(), Update(), Awake()
+
+## 2. Kể Tên 5 Loại Giải Thuật Sắp Xếp Khác Nhau 
+
+Bubble Sort (Sắp xếp nổi bọt)
+Selection Sort (Sắp xếp chọn)
+Insertion Sort (Sắp xếp chèn)
+Merge Sort (Sắp xếp trộn)
+Quick Sort (Sắp xếp nhanh)
 
 ## 3. Dùng Một Giải Thuật Sắp Xếp Khác Để Thay Cho Giải Thuật Trong Buổi Học
 
